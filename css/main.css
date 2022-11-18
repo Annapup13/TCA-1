@@ -10,16 +10,6 @@
     font-size: 60px;
     font-weight:bolder;
 }
-
-.button {
-    border-radius: 4px;
-    color: #05A8AA;
-    display: block;
-    font-weight: 700;
-  }
-  
-  .button:hover {
-    background-color: #6a04c2;
-    border: 1px solid #6a04c2;
-    color: #FFF;
-  }
+.spacecatslol{
+    margin-left: 10px;
+}
