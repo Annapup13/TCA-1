@@ -2,14 +2,21 @@
     font-family: 'Roboto', sans-serif;
 }
 .cat{
-    font-size: 60px;
+    font-size: 100px;
     opacity:60%;
     font-weight:lighter;
 }
 .cat2{
-    font-size: 60px;
+    font-size: 100px;
     font-weight:bolder;
+}
+.thefifthcat{
+    font-size: 60px;
 }
 .spacecatslol{
     margin-left: 10px;
+}
+.table{
+    margin-left: auto;
+    margin-right: auto;
 }
